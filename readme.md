@@ -1,7 +1,9 @@
 
 cd ~/working-directory/
+
 npm install
-react-native run-ios
+
+react-native run-ios```
 
 ===
 
